@@ -1,5 +1,0 @@
-!<!DOCTYPE html>
- <body>
-    สวัสดีชาวโลก
- </body>
-</html>
